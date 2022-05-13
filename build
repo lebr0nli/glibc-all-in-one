@@ -1,7 +1,8 @@
 #!/bin/bash
 cd "$(dirname "$0")"
 
-SOURCE="http://mirrors.ustc.edu.cn/gnu/libc"
+# SOURCE="http://mirrors.ustc.edu.cn/gnu/libc"
+SOURCE="https://ftp.gnu.org/gnu/glibc/"
 GLIBC_DIR="/glibc"
 
 

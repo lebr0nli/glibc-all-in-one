@@ -8,9 +8,9 @@ if [ ! -d "debs" ];  then
     mkdir debs
 fi
 
-SOURCE="https://mirror.tuna.tsinghua.edu.cn/ubuntu/pool/main/g/glibc"
+# SOURCE="https://mirror.tuna.tsinghua.edu.cn/ubuntu/pool/main/g/glibc"
 # Use the source below if you feel slow, or change it on your own.
-# SOURCE="http://archive.ubuntu.com/ubuntu/pool/main/g/glibc/"
+SOURCE="http://archive.ubuntu.com/ubuntu/pool/main/g/glibc/"
 
 LIBC_PREFIX="libc6_"
 LIBC_DBG_PREFIX="libc6-dbg_"

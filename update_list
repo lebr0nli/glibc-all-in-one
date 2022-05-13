@@ -2,8 +2,8 @@
 import re
 import requests
 
-common_url = 'https://mirror.tuna.tsinghua.edu.cn/ubuntu/pool/main/g/glibc/'
-# url = 'http://archive.ubuntu.com/ubuntu/pool/main/g/glibc/'
+# common_url = 'https://mirror.tuna.tsinghua.edu.cn/ubuntu/pool/main/g/glibc/'
+common_url = 'http://archive.ubuntu.com/ubuntu/pool/main/g/glibc/'
 old_url = 'http://old-releases.ubuntu.com/ubuntu/pool/main/g/glibc/'
 
 
